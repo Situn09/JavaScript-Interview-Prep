@@ -1,7 +1,12 @@
+<<<<<<< HEAD:03_function/Readme.md
 ### (Notes) Functions
 
 ## Question 1: Function Code
 
+=======
+## (Notes) Functions
+Question 1: Function Code
+>>>>>>> 5babaffb83de2641306f43849b9a8e87efc8fc3d:03_function/Readme
 Explanation: This code defines a function square that calculates the square of a number and a function displaySquare that logs the square of 5 using the square function.
 
 ## Question 2: What is IIFE?
